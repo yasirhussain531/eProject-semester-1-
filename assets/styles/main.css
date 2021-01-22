@@ -1,0 +1,14 @@
+/* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* Primary Color: #43CFF8 */
+/* Accent Color: #69C0DF  */
+/* Background Color: #E0E9ED  */
