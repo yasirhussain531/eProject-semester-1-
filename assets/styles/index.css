@@ -1,6 +1,4 @@
-.carousel-item{
-    height:810px!important ;
-}
+
 
 
 /****************************feature products********************/
@@ -88,6 +86,10 @@
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
+..custom-card {
+  background-color: ;
+}
+
 /*==Footer===*/
 .footer{
   background-color: dodgerblue;
