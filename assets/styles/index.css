@@ -86,15 +86,17 @@
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-..custom-card {
-  background-color: ;
-}
-
 /*==Footer===*/
 .footer{
   background-color: dodgerblue;
   color: #fff;
 }
 .fab{
-  padding-left: 10px;
+  padding-left: 20px;
+}
+.fab:hover {
+  color: black;
+  transition: 0.5s;
+  transform: translateY(-9px);
+  
 }
